@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ayala Mall</key>
+	<dict>
+		<key>longitude</key>
+		<string>121.017876</string>
+		<key>latitude</key>
+		<string>14.558425</string>
+		<key>description</key>
+		<string>Ayala</string>
+		<key>image</key>
+		<string>ayala.jpg</string>
+	</dict>
+	<key>Maolboal</key>
+	<dict>
+		<key>longitude</key>
+		<string>123.40076</string>
+		<key>latitude</key>
+		<string>9.955661</string>
+		<key>description</key>
+		<string>Moalboal</string>
+		<key>image</key>
+		<string>moalboal.jpg</string>
+	</dict>
+	<key>SM Mall</key>
+	<dict>
+		<key>longitude</key>
+		<string>123.918199</string>
+		<key>latitude</key>
+		<string>10.311987</string>
+		<key>description</key>
+		<string>SM Mall</string>
+		<key>image</key>
+		<string>sm.jpg</string>
+	</dict>
+	<key>J Centre Mall</key>
+	<dict>
+		<key>longitude</key>
+		<string>121.046065</string>
+		<key>latitude</key>
+		<string>14.556437</string>
+		<key>description</key>
+		<string>J Centre Mall</string>
+		<key>image</key>
+		<string>centre.jpg</string>
+	</dict>
+	<key>JY Mall</key>
+	<dict>
+		<key>longitude</key>
+		<string>123.898757</string>
+		<key>latitude</key>
+		<string>10.330426</string>
+		<key>description</key>
+		<string>JY Mall</string>
+		<key>image</key>
+		<string>jy.jpg</string>
+	</dict>
+</dict>
+</plist>
