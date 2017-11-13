@@ -58,7 +58,7 @@ class DetailViewController: UIViewController {
                 myPin.title = movedPlace
                 
                 // pinサブタイトル
-                myPin.subtitle = "おすすめ"
+                myPin.subtitle = "セブで熱い場所"
                 // マップにピン表示
                 myMapView.addAnnotation(myPin)
             }
